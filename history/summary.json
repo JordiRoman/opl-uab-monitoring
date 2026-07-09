@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "down",
-    "uptime": "90.80%",
+    "uptime": "90.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.83%",
+    "uptimeYear": "76.76%",
     "time": 2053,
     "timeDay": 3881,
     "timeWeek": 3707,
@@ -76,7 +76,7 @@
       "2026-04-09": 30,
       "2026-04-16": 19,
       "2026-04-25": 16,
-      "2026-07-09": 172,
+      "2026-07-09": 539,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -141,13 +141,13 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "92.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "82.86%",
-    "time": 1120,
+    "time": 1122,
     "timeDay": 1900,
     "timeWeek": 1253,
     "timeMonth": 1245,
@@ -248,7 +248,8 @@
       "2026-04-16": 18,
       "2026-04-25": 15,
       "2026-06-03": 128,
-      "2026-06-13": 84
+      "2026-06-13": 84,
+      "2026-07-09": 5
     }
   },
   {
@@ -256,9 +257,9 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "92.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "85.72%",
@@ -351,7 +352,8 @@
       "2026-04-09": 29,
       "2026-04-16": 18,
       "2026-06-03": 118,
-      "2026-06-13": 79
+      "2026-06-13": 79,
+      "2026-07-09": 0
     }
   }
 ]
