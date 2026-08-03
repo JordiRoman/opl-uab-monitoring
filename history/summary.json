@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "down",
-    "uptime": "89.30%",
+    "uptime": "89.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.00%",
+    "uptimeYear": "69.98%",
     "time": 2208,
     "timeDay": 3497,
     "timeWeek": 3526,
@@ -76,7 +76,7 @@
       "2026-04-09": 30,
       "2026-04-16": 19,
       "2026-04-25": 16,
-      "2026-08-03": 75,
+      "2026-08-03": 160,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -168,9 +168,9 @@
     "slug": "migasfree-server-opl",
     "status": "down",
     "uptime": "92.41%",
-    "uptimeDay": "85.91%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "80.02%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "84.32%",
     "time": 1115,
     "timeDay": 1235,
@@ -270,7 +270,7 @@
       "2026-07-09": 159,
       "2026-07-26": 51,
       "2026-08-02": 198,
-      "2026-08-03": 5
+      "2026-08-03": 90
     }
   },
   {
@@ -280,9 +280,9 @@
     "slug": "mirrors-opl",
     "status": "down",
     "uptime": "93.07%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "81.03%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "87.17%",
     "time": 1076,
     "timeDay": 1228,
@@ -370,7 +370,7 @@
       "2026-07-09": 154,
       "2026-07-26": 46,
       "2026-08-02": 189,
-      "2026-08-03": 0
+      "2026-08-03": 85
     }
   }
 ]
