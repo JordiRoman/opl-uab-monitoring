@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "down",
-    "uptime": "87.72%",
+    "uptime": "87.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.59%",
+    "uptimeYear": "62.57%",
     "time": 2252,
     "timeDay": 3655,
     "timeWeek": 3817,
@@ -76,7 +76,7 @@
       "2026-04-09": 30,
       "2026-04-16": 19,
       "2026-04-25": 16,
-      "2026-08-30": 120,
+      "2026-08-30": 225,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -194,10 +194,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "down",
-    "uptime": "92.53%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.45%",
+    "uptime": "92.52%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "91.63%",
     "time": 1121,
     "timeDay": 1105,
@@ -272,7 +272,7 @@
       "2026-08-02": 198,
       "2026-08-03": 387,
       "2026-08-04": 88,
-      "2026-08-30": 5
+      "2026-08-30": 110
     }
   },
   {
@@ -281,10 +281,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "down",
-    "uptime": "93.18%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.53%",
+    "uptime": "93.17%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "94.49%",
     "time": 1082,
     "timeDay": 1056,
@@ -347,7 +347,7 @@
       "2026-08-02": 189,
       "2026-08-03": 372,
       "2026-08-04": 83,
-      "2026-08-30": 0
+      "2026-08-30": 105
     }
   }
 ]
