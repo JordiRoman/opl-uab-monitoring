@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "down",
-    "uptime": "86.14%",
+    "uptime": "86.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.90%",
+    "uptimeYear": "54.87%",
     "time": 2283,
     "timeDay": 3628,
     "timeWeek": 3637,
-    "timeMonth": 3788,
+    "timeMonth": 3763,
     "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-10-11": 83,
@@ -76,7 +76,7 @@
       "2026-04-09": 30,
       "2026-04-16": 19,
       "2026-04-25": 16,
-      "2026-09-27": 227,
+      "2026-09-27": 378,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -221,16 +221,16 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "92.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "94.34%",
-    "time": 1134,
+    "time": 1133,
     "timeDay": 761,
     "timeWeek": 1434,
-    "timeMonth": 1303,
+    "timeMonth": 1266,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-10-11": 83,
@@ -291,7 +291,8 @@
       "2026-08-03": 387,
       "2026-08-04": 88,
       "2026-08-30": 333,
-      "2026-09-20": 103
+      "2026-09-20": 103,
+      "2026-09-27": 5
     }
   },
   {
@@ -299,16 +300,16 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "93.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "97.21%",
-    "time": 1087,
+    "time": 1086,
     "timeDay": 2127,
     "timeWeek": 1350,
-    "timeMonth": 1210,
+    "timeMonth": 1204,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2025-10-11": 82,
@@ -357,7 +358,8 @@
       "2026-08-03": 372,
       "2026-08-04": 83,
       "2026-08-30": 328,
-      "2026-09-20": 98
+      "2026-09-20": 98,
+      "2026-09-27": 0
     }
   }
 ]
